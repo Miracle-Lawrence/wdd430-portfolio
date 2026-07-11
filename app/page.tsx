@@ -1,4 +1,6 @@
 import ProjectList from "@/components/ProjectList";
+
+
 const projects = [
   {
     title: "Movie Tracker API",
@@ -46,3 +48,4 @@ export default function Home() {
     </main>
   );
 }
+
